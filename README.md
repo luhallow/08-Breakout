@@ -1,2 +1,2 @@
-# 08-Breakout
-A breakout/ brick breaker game like they don't make anymore. 
+# Project-Template-Godot
+A generic template for a Godot project
